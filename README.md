@@ -30,6 +30,7 @@ The product details screen displays detailed information about a specific watch,
 
 ### Cart Screen
 The cart screen shows the items added to the user's cart. Users can apply a coupon by entering "Flutter" in the designated field.
+![Screenshot_1699167161](https://github.com/3badiiM/Project-4/assets/115943308/72d07083-cbe8-478d-a62b-541868c9fbf8)
 
 ### Profile Screen
 The profile screen displays the user's profile information, such as name, email address,mobile number, and password. Users can update their information on this screen.
